@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pandas
+Pillow
+tqdm
+huggingface_hub
+onnxruntime-gpu
